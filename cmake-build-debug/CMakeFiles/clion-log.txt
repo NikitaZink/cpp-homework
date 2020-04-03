@@ -1,0 +1,4 @@
+"D:\IDEA\CLion 2019.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" C:\Users\Nike\CLionProjects\DZ
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Nike/CLionProjects/DZ/cmake-build-debug
